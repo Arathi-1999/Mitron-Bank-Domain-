@@ -13,11 +13,21 @@ This report primarily focus on revenue, Average Revenue Per Users(ARPU), Active 
 
 ## Insights from the analysis:
 
--- Revenue is declined by 0.50% compared to the previous network.
+**--** Revenue is declined by 0.50% compared to the previous network.
 
--- Even though there is a decline in the revenue, ARPU(Average Revenue Per User) has increased from 190.23 to 211.25 rupees.
+**--** Even though there is a decline in the revenue, ARPU(Average Revenue Per User) has increased from 190.23 to 211.25 rupees.
 
--- AtliQ maintain third position in the market always without any change.
+**--** AtliQ maintain third position in the market always without any change.
 Plan 1 and 2 are the highly performing plans among all the plans.
 
--- Pune has 18% growth in active users despite having 55% increase in the unsubscribed users.
+**--** Pune has 18% growth in active users despite having 55% increase in the unsubscribed users. 
+
+**--** customers spend primarily on bills, groceries , electronics and health & wellness.
+
+**--** Most of the spending's are made by male customers and married customers.
+
+**--** 25-34 and 35 -45 age groups spend most among all the age groups.
+
+**--** The average income utilization % is high in Mumbai and Delhi NCR locations.
+
+**--** Majority of the transactions are made by Salaried IT Employees and Salaried Other Employees.
